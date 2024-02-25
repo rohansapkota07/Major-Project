@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header  text-primary">About
-                    <small>Blood Bank</small>
+                    <small>Life Line Blood Bank</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a>
@@ -31,7 +31,7 @@
                 <img class="img-responsive" src="images/contact.jpg" alt="">
             </div>
             <div class="col-md-6">
-                <h2 class="text-primary">About Blood Bank</h2>
+                <h2 class="text-primary">About Life Line Blood Bank</h2>
                 <p>Blood banking is the process that takes place in the laboratory to ensure that donated blood, or blood products, 
                     are safe before they are used in blood transfusions and other medical procedures. Blood banking includes typing 
                     the blood for transfusion and testing for infectious diseases.The term "blood bank" typically refers to a division 
@@ -42,11 +42,11 @@
 </p>
 
   <h2 style="color:red;">Developer </h2>
-  <li>Hancie Phago</li>
-  <li>Nitesh Hamal</li>
-  <li>Azaya Timsina</li>
-  <li>Nishav Rayamajhi</li>
-  <li>Anmol Shrestha</li>
+  <li>Diksha Sapkota</li>
+  <li>Gaurav Basnet</li>
+  <li>Rohan Sapkota</li>
+  <li>Saugat Rai</li>
+  
 
                 
             </div>

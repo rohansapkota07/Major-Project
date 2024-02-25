@@ -2,7 +2,7 @@
   <div class=" container-fluid">
     <div class="row">
       <div class="col-sm-12" >
-		<p align="center">Copyright &copy; 2022 AHN Blood Bank Management System Pvt.Ltd</p>
+		<p align="center">Copyright &copy; 2024 Life Line Blood Bank Management System Pvt.Ltd</p>
       </div><!-- col-sm-6 -->
     </div><!-- row -->
   </div><!-- content container -->

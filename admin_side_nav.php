@@ -25,7 +25,7 @@ else
 	<li><a href="#add" data-toggle="collapse" ><i class="fa fa-cogs fa-lg"></i> Settings</a></li>
 	<ul class="nav collapse" id="add">
 		<li><a href="admin_country.php"><i class="fa fa-plus fa-lg"></i> Add Country</a>
-		<li><a href="admin_state.php"><i class="fa fa-plus fa-lg"></i> Add State</a></li>
+		<li><a href="admin_district.php"><i class="fa fa-plus fa-lg"></i> Add District</a></li>
 		<li><a href="admin_city.php"><i class="fa fa-plus fa-lg"></i> Add City</a></li>
 		<li><a href="admin_area.php"><i class="fa fa-plus fa-lg"></i> Add Area</a></li>
 		</li>

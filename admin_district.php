@@ -21,7 +21,7 @@ include("admin_function.php");
 			<?php include("admin_side_nav.php");?>
 		</div>
 		<div class="col-sm-9" >
-			<h3 class='text-primary'><i class="fa fa-bank"></i> Add State </h3><hr>    
+			<h3 class='text-primary'><i class="fa fa-bank"></i> Add District </h3><hr>    
 			<div class="row">
 				<div class="col-md-6">
 				<?php 
@@ -35,7 +35,7 @@ include("admin_function.php");
 				?>
 				
 					<p id='out' class='text-success'></p>
-					<form role="form" action="admin_state.php" method="post">
+					<form role="form" action="admin_district.php" method="post">
 					
 						
 						  <div class="form-group">
@@ -56,11 +56,11 @@ include("admin_function.php");
 								</select>
                           </div>
 						<div class="form-group text-primary">
-							<label for="state">State Name</label>
+							<label for="state">District Name</label>
 							<input id="state" required type="text" class="form-control" name="statename">
 						</div>
 						<div class="form-group">
-							<input type="submit" class="btn btn-primary" name='state_submit' value="Add State">
+							<input type="submit" class="btn btn-primary" name='state_submit' value="Add District">
 						</div>
 						
 					</form>
@@ -77,7 +77,7 @@ From state Inner Join
 									echo "<tr>
 											<th>Sno</th>
 											<th>Country Name</th>
-											<th>State Name</th>
+											<th>District Name</th>
 											<th>Delete</th>
 										</tr>";
 										$i=0;
@@ -96,7 +96,7 @@ From state Inner Join
 						
 					?>
 					
-					<a href='admin_view_state.php' class='btn btn-primary'><i class='fa fa-edit'></i> View All</a>
+					<a href='admin_view_district.php' class='btn btn-primary'><i class='fa fa-edit'></i> View All</a>
 				</div>
 			</div>
 		

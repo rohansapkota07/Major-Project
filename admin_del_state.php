@@ -6,8 +6,8 @@ if(isset($_GET["id"]))
 	$sql="DELETE FROM state WHERE STATE_ID=$id";
 	$con->query($sql);
 	echo "<script>
-		alert('State Deleted');
-		window.open('admin_state.php','_self');
+		alert('District Deleted');
+		window.open('admin_district.php','_self');
 	</script>";
 }
 ?>

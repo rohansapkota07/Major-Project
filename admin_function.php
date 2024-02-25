@@ -9,7 +9,7 @@ function load_donor($sql,$con)
 				<th>Gender</th>
 				<th>Blood</th>
 				<th>City</th>
-				<th>State</th>
+				<th>District</th>
 				<th>Contact-1</th>
 				<th>Contact-2</th>
 				<th>View</th>

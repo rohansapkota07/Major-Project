@@ -41,9 +41,9 @@ include("admin_function.php");
 							<input id="City" required type="text" class="form-control" name="cityname">
 						</div>
 						<div class="form-group text-primary">
-							<label for="state">Select State</label>
+							<label for="state">Select District</label>
 							<select name="statename" required class="form-control">
-								<option value="">Select State</option>
+								<option value="">Select District</option>
 								<?php
 									$sql="SELECT STATE_ID,STATE_NAME FROM state ORDER BY STATE_NAME ASC";
 									$result=$con->query($sql);
@@ -76,7 +76,7 @@ From state Inner Join
 									echo "<tr>
 											<th>Sno</th>
 											<th>City</th>
-											<th>State</th>
+											<th>District</th>
 											<th>Delete</th>
 										</tr>";
 										$i=0;

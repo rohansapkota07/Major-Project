@@ -85,7 +85,7 @@ From state Inner Join
 									$list.= "<tr>
 											<th>Sno</th>
 											<th>Country Name</th>
-											<th>State Name</th>
+											<th>District Name</th>
 											<th>Delete</th>
 										</tr>";
 										$i=0;
@@ -118,7 +118,7 @@ From state Inner Join
 			<?php include("admin_side_nav.php");?>
 		</div>
 		<div class="col-sm-9" >
-			<h3><i class="fa fa-bank"></i> View State Details </h3><hr>    
+			<h3><i class="fa fa-bank"></i> View District Details </h3><hr>    
 		
 				<div class="col-md-12">
 

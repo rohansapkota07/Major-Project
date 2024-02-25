@@ -194,9 +194,9 @@ INSERT INTO blood_donor
                           </div>
 						  
 							<div class="form-group">
-								<label class="control-label text-primary" for="STATE">State</label>
+								<label class="control-label text-primary" for="STATE">District</label>
                                 <select name="STATE" id="STATE" required class="form-control">
-								<option value="">Select State</option>
+								<option value="">Select District</option>
 								<?php
 									$sql="SELECT STATE_ID,STATE_NAME FROM state ORDER BY STATE_NAME ASC";
 									$result=$con->query($sql);
@@ -245,7 +245,7 @@ INSERT INTO blood_donor
                           </div>
 
 						  <div class="form-group">
-								<label class="control-label text-primary" for="PINCODE">Pincode</label>
+								<label class="control-label text-primary" for="PINCODE">Pincode/Zipcode</label>
                                 <input type="text" required name="PINCODE" id="PINCODE" class="form-control" placeholder="Insert Pincode">
                           </div>
 						  

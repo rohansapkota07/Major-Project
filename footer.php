@@ -1,5 +1,5 @@
 <footer>
-	<p class='text-center'>Copyright &copy; 2022 AHN Blood Bank Management System Pvt.Ltd</p>
+	<p class='text-center'>Copyright &copy; 2024 Life Line Blood Bank Management System Pvt.Ltd</p>
 </footer>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>

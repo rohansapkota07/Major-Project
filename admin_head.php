@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Blood Bank</title>
+<title>Life Line Blood Bank</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/jquery-ui.css" rel="stylesheet">
 <link href="css/modern-business.css" rel="stylesheet">

@@ -68,21 +68,20 @@
             <div class="col-md-4">
                 <h3 class='text-primary'>Contact Details</h3>
                 <p>
-                    AHN Online Blood Bank Management, <br>
-					New Baneshwor,<br>
-					Shankamul, Shree Shanti Mark.<br>
-					ahn@gmail.com.
+                    Life Line Blood Bank Management, <br>
+					Banepa,<br>
+					Banepa, kavre.<br>
+					lifelinebloodbank@gmail.com.
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">Phone</abbr>: +977 9825915122</p>
+                    <abbr title="Phone">Phone</abbr>: +977 9850023456</p>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">Email</abbr>: <a href="#" >bloodbanking@gmail.com</a>
                 </p>
                 <p><i class="fa fa-clock-o"></i> 
                     <abbr title="Hours">Working Hours</abbr>: 24*7</p>
 				<p><i class="fa fa-globe"></i> 
-                    <abbr title="Website">Website</abbr>: <a href="index.php">www.phagohancie.com.np</a></p>
-                <ul class="list-unstyled list-inline list-social-icons">
+                    
                     <li>
                         <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
                     </li>
